@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- **2025 EMBC** | Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation, Zengding Liu, Weixiu Qiu, **Zixuan Huang**
+- **2025 EMBC** \| Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation, Zengding Liu, Weixiu Qiu, **Zixuan Huang**
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, MS in Computer Technology, Shenzhen institutes of Advanced Technology, University of Chinese Academy of Sciences, China. 
