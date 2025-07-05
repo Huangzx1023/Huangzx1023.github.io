@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*, MS in Computer Technology, Shenzhen institutes of Advanced Technology, University of Chinese Academy of Sciences, China. 
+- *2024.09 - 2027.06 (now)*, MSc in Computer Technology, Shenzhen institutes of Advanced Technology, University of Chinese Academy of Sciences, China. 
 - *2020.09 - 2024.06*, Dual BSc in Applied Mathematics and Information Computing Science, University of Birmingham, UK & Jinan University, China.
 
 # 💻 Internships
