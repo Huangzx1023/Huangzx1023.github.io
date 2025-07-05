@@ -41,6 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation, **2025 EMBC**
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, MS in Computer Technology, Shenzhen institutes of Advanced Technology, University of Chinese Academy of Sciences, China. 
