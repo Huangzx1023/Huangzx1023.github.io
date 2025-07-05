@@ -42,15 +42,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:12px;">2025 ACM MM</span> *BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection* Xiang An, **Zixuan Huang**, et al.
+- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:11px;">2025 ACM MM</span> *BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection* Xiang An, **Zixuan Huang**, et al.
 
-- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:12px;">2025 MICCAI</span> *ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Hemisphere* **Zixuan Huang**, et al.
+- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:11px;">2025 MICCAI</span> *ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Hemisphere* **Zixuan Huang**, et al.
 
-- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:12px;">2025 SMC</span> *16.9K-Parameters Lightweight Framework for Real-Time EEG-Based DoA Monitoring with Harmonic Mix and SimGate* **Zixuan Huang**, et al.
+- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:11px;">2025 SMC</span> *16.9K-Parameters Lightweight Framework for Real-Time EEG-Based DoA Monitoring with Harmonic Mix and SimGate* **Zixuan Huang**, et al.
 
-- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:12px;">2025 EMBC</span> *BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia* Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
+- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:11px;">2025 EMBC</span> *BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia* Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
 
-- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:12px;">2025 EMBC</span> *Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation* Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
+- <span style="background-color:#007bff; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; width:90px; text-align:center; font-weight:bold; font-size:11px;">2025 EMBC</span> *Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation* Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
 
   
 # 📖 Educations
