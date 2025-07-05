@@ -42,11 +42,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-- **2025 ACM MM** \| BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection, Xiang An, **Zixuan Huang**, et al.
-- **2025 MICCAI** \| ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Hemisphere, **Zixuan Huang**, et al.
-- **2025 SMC** \| 16.9K-Parameters Lightweight Framework for Real-Time EEG-Based DoA Monitoring with Harmonic Mix and SimGate, **Zixuan Huang**, et al.
-- **2025 EMBC** \| BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia, Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
-- **2025 EMBC** \| Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation, Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
+- **2025 ACM MM**  
+  \| *BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection*  
+  \| Xiang An, **Zixuan Huang**, et al.
+
+- **2025 MICCAI**  
+  \| *ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Hemisphere*  
+  \| **Zixuan Huang**, et al.
+
+- **2025 SMC**  
+  \| *16.9K-Parameters Lightweight Framework for Real-Time EEG-Based DoA Monitoring with Harmonic Mix and SimGate*  
+  \| **Zixuan Huang**, et al.
+
+- **2025 EMBC**  
+  \| *BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia*  
+  \| Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
+
+- **2025 EMBC**  
+  \| *Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation*  
+  \| Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
   
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, MS in Computer Technology, Shenzhen institutes of Advanced Technology, University of Chinese Academy of Sciences, China. 
