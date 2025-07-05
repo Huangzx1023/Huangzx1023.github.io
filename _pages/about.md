@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-- **2025 ACM MM** [NeurIPS 2023] 
+- **2025 ACM MM** <span style="background-color: #007bff; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold;">2025 ACM MM</span> 
   \| *BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection*  
   \| Xiang An, **Zixuan Huang**, et al.
 
