@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,8 +41,13 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- **2025 EMBC** \| Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation, Zengding Liu, Weixiu Qiu, **Zixuan Huang**
-
+-->
+- **2025 ACM MM** \| BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection, Xiang An, **Zixuan Huang**, et al.
+- **2025 MICCAI** \| ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Hemisphere, **Zixuan Huang**, et al.
+- **2025 SMC** \| 16.9K-Parameters Lightweight Framework for Real-Time EEG-Based DoA Monitoring with Harmonic Mix and SimGate, **Zixuan Huang**, et al.
+- **2025 EMBC** \| BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia, Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
+- **2025 EMBC** \| Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation, Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
+  
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, MS in Computer Technology, Shenzhen institutes of Advanced Technology, University of Chinese Academy of Sciences, China. 
 - *2020.09 - 2024.06*, Dual BSc in Applied Mathematics and Information Computing Science, University of Birmingham, UK & Jinan University, China.
