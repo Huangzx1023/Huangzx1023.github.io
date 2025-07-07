@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Zi-xuan Huang
 
-My research interest includes neural machine translation and computer vision. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=JrUG7ewAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=JrUG7ewAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=JrUG7ewAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
