@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zixuan Huang (pronunciation: Zee-shwan Hwang). I am currently a master's student in Computer Technology at the University of Chinese Academy of Sciences. I got my dual BSc from Jinan University in information and computing science and University of Birmingham in mathematics and applied mathematics with a first-class honors degree.
+Hi, I am Zixuan Huang (pronunciation: Zee-shwan Hwang). I am currently a second-year master's student in computer technology at the University of Chinese Academy of Sciences (Shenzhen institutes of Advanced Technology). I got my dual BSc from Jinan University in information and computing science and University of Birmingham in mathematics and applied mathematics with a first-class honors degree.
 
+My research interests focus on deep learning for temporal medical data, including ECG, PPG, EEG. I have published 6 papers at the top international AI or biomedical conferences and journal such as ACM MM, MICCAI, EAAI.
+<!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=JrUG7ewAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=JrUG7ewAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -51,6 +53,8 @@ My research interest includes neural machine translation and computer vision. I 
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 EMBC</span> *BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia*, Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
 
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 EMBC</span> *Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation*, Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
+
+- <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">EAAI</span> [*GFBLS: Graph-regularized fuzzy broad learning system for detection of interictal epileptic discharges*](https://www.sciencedirect.com/science/article/abs/pii/S0952197623009478), **Zixuan Huang**, et al.
 
   
 # 📖 Educations
