@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2025
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC 2025
-- 
+
 # 📝 Publications 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -45,6 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 ACM MM</span> *BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection*, An Xiang, **Zixuan Huang** (co-first), et al.
 
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 MICCAI</span> *ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Hemisphere*, **Zixuan Huang**, et al.
