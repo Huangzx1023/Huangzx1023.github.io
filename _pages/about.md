@@ -68,5 +68,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.06 - 2023.09*, MINISO, Guangzhou.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* First-class Scholarship, Jinan University.
+- *2022* China Undergraduate Mathematical Contest in Modeling, Provincial First Prize
+- *2022* Mathematical Contest in Modeling, Honorable Mention
+- *2022-2025* National/Provincial/School Innovation and Entrepreneurship Trainings for University of PRC
