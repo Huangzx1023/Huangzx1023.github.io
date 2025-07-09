@@ -20,7 +20,7 @@ redirect_from:
 
 Hi, I am Zixuan Huang (pronunciation: Zee-shwan Hwang). I am currently a second-year master's student in computer technology at the University of Chinese Academy of Sciences (Shenzhen institutes of Advanced Technology), advisor Prof. [Fen Miao](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21130?yxsh=28) and [Ye Li](https://people.ucas.edu.cn/~yeli). I got my dual BSc from Jinan University in information and computing science and University of Birmingham in mathematics and applied mathematics with a first-class honors degree.
 
-My research interests focus on deep learning for temporal medical data, including ECG, PPG, EEG. I have published 6 papers at the top international AI or biomedical conferences and journal such as ACM MM, MICCAI, EAAI.
+My research interests focus on deep learning for temporal medical data, including ECG, PPG, EEG. I have published 6 papers at the top international AI or biomedical conferences and journals such as ACM MM, MICCAI, EAAI.
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=JrUG7ewAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=JrUG7ewAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
