@@ -55,7 +55,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 EMBC</span> *BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia*, Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
 
-- <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 EMBC</span> *Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation*, Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
+- <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 EMBC</span> *Relationship between Pulse Transit Time, PPG Features, and Blood Pressure in Atrial Fibrillation* **(Oral)**, Zengding Liu, Weixiu Qiu, **Zixuan Huang**, et al.
 
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">EAAI</span> [*GFBLS: Graph-Regularized Fuzzy Broad Learning System for Detection of Interictal Epileptic Discharges*](https://www.sciencedirect.com/science/article/abs/pii/S0952197623009478), **Zixuan Huang**, et al.
 
