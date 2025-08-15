@@ -66,8 +66,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2025.07 - 2025.09*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Zheng Yefeng](https://sites.google.com/site/yefengzheng/)).  
-- *2025.04 - 2025.06*, Yuanfudao, Beijing.
-- *2023.06 - 2023.09*, MINISO, Guangzhou.
+- *2025.04 - 2025.06*, Prompt Engineer, Yuanfudao, Beijing.
+- *2023.06 - 2023.09*, Data Analyst, MINISO, Guangzhou.
 
 # 🎖 Honors and Awards
 - *2024*, First-class Scholarship, Jinan University.
