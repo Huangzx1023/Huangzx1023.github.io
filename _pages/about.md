@@ -75,4 +75,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022*, Mathematical Contest in Modeling, Honorable Mention
 - *2022-2025*, National/Provincial/School Innovation and Entrepreneurship Trainings for University of PRC
 
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5yotwYkKtXDUwmSmejnDA2B1y-SlKekkCdZ0hdofHGU&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" 
+src="//clustrmaps.com/map_v2.js?d=5yotwYkKtXDUwmSmejnDA2B1y-SlKekkCdZ0hdofHGU&cl=ffffff&w=150&h=100">
+</script>
