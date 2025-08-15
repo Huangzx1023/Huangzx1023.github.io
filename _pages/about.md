@@ -65,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.09 - 2024.06*, Dual BSc in Applied Mathematics and Information Computing Science, University of Birmingham, UK & Jinan University, China.
 
 # 💻 Internships
-- *2025.07 - 2025.09*, Visiting Student, **Medical Artificial Intelligence Laboratory**, Westlake University (Supervisor: Prof. [Zheng Yefeng](https://sites.google.com/site/yefengzheng/)).  
+- *2025.07 - 2025.09*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Zheng Yefeng](https://sites.google.com/site/yefengzheng/)).  
 - *2025.04 - 2025.06*, Yuanfudao, Beijing.
 - *2023.06 - 2023.09*, MINISO, Guangzhou.
 
