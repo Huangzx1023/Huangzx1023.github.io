@@ -69,8 +69,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.09 - 2024.06*, Dual BSc in Applied Mathematics and Information Computing Science, University of Birmingham, UK & Jinan University, China.
 
 # 💻 Internships
-- *2025.07 - 2025.09*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
-- *2025.04 – 2025.06*, Algorithm Engineer, Yuanfudao, Beijing  
+- *2025.7 - 2025.9*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
+- *2025.4 – 2025.6*, Algorithm Engineer, Yuanfudao, Beijing  
     - Optimized prompt pipelines for the industry-first AI-native oral-English tutor “Zebra Speak”  
     - Technical contributions featured in [Synced Review 机器之心](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
   <div align="center">
