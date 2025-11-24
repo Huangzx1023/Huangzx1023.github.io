@@ -28,9 +28,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2025
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC 2025
+- *2025.7*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025
+- *2025.6*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2025
+- *2025.6*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC 2025
 
 # 📝 Publications 
 <!-- 
@@ -65,8 +65,12 @@ My research interest includes neural machine translation and computer vision. I 
 
   
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*, MSc in Computer Technology, Shenzhen institutes of Advanced Technology, University of Chinese Academy of Sciences, China. 
-- *2020.09 - 2024.06*, Dual BSc in Applied Mathematics and Information Computing Science, University of Birmingham, UK & Jinan University, China.
+- *2024.9 - 2027.6*, MSc in Computer Technology, University of Chinese Academy of Sciences, China. 
+- *2020.9 - 2024.6*, Dual BSc
+  - Applied Mathematics, University of Birmingham, UK.
+    - **First Class Honours**
+  - Information Computing Science, Jinan University, China.
+    - **postgraduate recommendation**
 
 # 💻 Internships
 - *2025.7 - 2025.9*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
