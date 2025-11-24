@@ -69,9 +69,10 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Internships
 - *2025.07 - 2025.09*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
 - *2025.04 – 2025.06*, Algorithm Engineer, Yuanfudao, Beijing  
-  - 参与研发斑马口语 AI 外教产品，聚焦语音识别与实时交互优化  
-  - 工作成果被机器之心深度报道：[《中国 AI Agent 产业化参考范本：斑马口语攻克的四大技术难关》](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw)  
-  ![coverage](images/1.png)
+- *Apr 2025 – Jun 2025*, Algorithm Engineer (Prompt Engineering), Yuanfudao, Beijing  
+    - Optimized prompt pipelines for the industry-first AI-native oral-English tutor “Zebra Speak”  
+    - Technical contributions featured in [Machine Intelligence](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
+  <img src="https://your-cdn.com/path/to/coverage.jpg" width="180"/>
 - *2023.06 - 2023.09*, Algorithm Engineer, MINISO, Guangzhou.
 
 # 🎖 Honors and Awards
