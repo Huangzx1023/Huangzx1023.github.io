@@ -70,7 +70,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Applied Mathematics, University of Birmingham, UK.
     - **First Class Honours**
   - Information Computing Science, Jinan University, China.
-    - **postgraduate recommendation**
+    - **Postgraduate Recommendation**
 
 # 💻 Internships
 - *2025.7 - 2025.9*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
