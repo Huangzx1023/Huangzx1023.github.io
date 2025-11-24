@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <b><span style="color:red;">I am currently exploring opportunities to pursue PhD programs beginning in Fall 2027 to further my academic journey. If you have any relevant openings or academic collaborations, please feel free to contact me at [zx.huang5@siat.ac.cn](zx.huang5@siat.ac.cn).</span></b>
 
-Hi, I am Zixuan Huang (pronunciation: Zee-shwan Hwang). I am currently a second-year master's student in computer technology at the University of Chinese Academy of Sciences (Shenzhen institutes of Advanced Technology), advisor Prof. [Fen Miao](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21130?yxsh=28) and [Ye Li](https://people.ucas.edu.cn/~yeli). I got my dual BSc from Jinan University in information and computing science and University of Birmingham in mathematics and applied mathematics with a first-class honors degree.
+Hi, I am Zixuan Huang (pronunciation: Zee-shwan Hwang). I am currently a second-year master's student in computer science at the University of Chinese Academy of Sciences (Shenzhen institutes of Advanced Technology), advisor Prof. [Fen Miao](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21130?yxsh=28) and [Ye Li](https://people.ucas.edu.cn/~yeli). I got my dual BSc from Jinan University in information and computing science and University of Birmingham in mathematics and applied mathematics with a first-class honors degree.
 
 - Research interests
   - Post-training for Vision-Language Models
@@ -65,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   
 # 📖 Educations
-- *2024.9 - 2027.6*, MSc in Computer Technology, University of Chinese Academy of Sciences, China. 
+- *2024.9 - 2027.6*, MSc in Computer Science, University of Chinese Academy of Sciences, China. 
 - *2020.9 - 2024.6*, Dual BSc
   - Applied Mathematics, University of Birmingham, UK.
     - **First Class Honours**
