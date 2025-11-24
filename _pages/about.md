@@ -51,6 +51,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 MICCAI</span> *ShareLink: Neuro-Inspired EEG-based Cross-Subject Emotion Recognition via Shared Hemisphere*, **Zixuan Huang**, et al.
 
+- <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 BIBM-W</span> *WaveMorph: Morphology-Aware Continuous Blood Pressure Waveform Prediction with BP-Guided Denormalization*, Weixiu Qiu, **Zixuan Huang** (co-first), et al.
+
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 IEEE SMC</span> *16.9K-Parameters Lightweight Framework for Real-Time EEG-Based DoA Monitoring with Harmonic Mix and SimGate*, **Zixuan Huang**, et al.
 
 - <span style="background-color:#004085; color:#fff; padding:2px 8px; border-radius:3px; display:inline-block; text-align:center; font-weight:bold; font-size:10px;">2025 EMBC</span> *BM-BPW: A Bidirectional Mamba-Based Model for Blood Pressure Waveform Estimation in Arrhythmia*, Weixiu Qiu, Zengding Liu, **Zixuan Huang**, et al.
@@ -66,8 +68,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2025.07 - 2025.09*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
-- *2025.04 - 2025.06*, Prompt Engineer, Yuanfudao, Beijing.
-- *2023.06 - 2023.09*, Data Analyst, MINISO, Guangzhou.
+- *2025.04 – 2025.06*, Algorithm Engineer, Yuanfudao, Beijing  
+  - 参与研发斑马口语 AI 外教产品，聚焦语音识别与实时交互优化  
+  - 工作成果被机器之心深度报道：[《中国 AI Agent 产业化参考范本：斑马口语攻克的四大技术难关》](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw)  
+  ![coverage](images/1.png)
+- *2023.06 - 2023.09*, Algorithm Engineer, MINISO, Guangzhou.
 
 # 🎖 Honors and Awards
 - *2024*, First-class Scholarship, Jinan University.
