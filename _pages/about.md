@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
     - Optimized prompt pipelines for the industry-first AI-native oral-English tutor “Zebra Speak”  
     - Technical contributions featured in [Synced Review 机器之心](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
   <div align="center">
-    <img src="images/1.png" width="420"/>
+    <img src="images/1.png" width="360"/>
   </div>
 - *2023.06 - 2023.09*, Algorithm Engineer, MINISO, Guangzhou.
   - Technical contributions featured in [Machine Intelligence](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
