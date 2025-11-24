@@ -75,8 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div align="center">
     <img src="images/1.png" width="360"/>
   </div>
-- *2023.06 - 2023.09*, Algorithm Engineer, MINISO, Guangzhou.
-  - Technical contributions featured in [Machine Intelligence](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
+- 2023.6 – 2023.9*, Algorithm Engineer, MINISO, Guangzhou
 
 
 # 🎖 Honors and Awards
