@@ -71,7 +71,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.04 – 2025.06*, Algorithm Engineer, Yuanfudao, Beijing  
 - *Apr 2025 – Jun 2025*, Algorithm Engineer (Prompt Engineering), Yuanfudao, Beijing  
     - Optimized prompt pipelines for the industry-first AI-native oral-English tutor “Zebra Speak”  
-    - Technical contributions featured in [Machine Intelligence](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
+    - Technical contributions featured in [Synced Review 机器之心](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
   <img src="image/1.ppg" width="180"/>
 - *2023.06 - 2023.09*, Algorithm Engineer, MINISO, Guangzhou.
 
