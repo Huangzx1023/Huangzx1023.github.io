@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
     - **Postgraduate Recommendation**
 
 # 💻 Internships
-- *2025.7 - 2025.9*, Visiting Student, Medical Artificial Intelligence Laboratory, Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
+- *2025.7 - 2025.9*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), Westlake University (Supervisor: Prof. [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)).  
 - *2025.4 – 2025.6*, Algorithm Engineer, Yuanfudao, Beijing  
     - Optimized prompt pipelines for the industry-first AI-native oral-English tutor “Zebra Speak”  
     - Technical contributions featured in [Synced Review 机器之心](https://mp.weixin.qq.com/s/ckJe3Bu2_k5C5xurJ6WuKw) (cover story: “How Zebra Speak Cracked 4 Key Bottlenecks for AI-Agent Deployment in China”)  
