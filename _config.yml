@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zi-xuan Huang"
-description              : "Focusing on deep learning for physiological signals."
+description              : "Focusing on Post-training for VLM and Medical Time Series."
 repository               : "Huangzx1023/zixuanhuang.github.io"
 google_scholar_stats_use_cdn : true
 
