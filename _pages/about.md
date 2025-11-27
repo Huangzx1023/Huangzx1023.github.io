@@ -28,9 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by JBHI
 - *2025.7*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025
-- *2025.6*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2025
-- *2025.6*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC 2025
 
 # 📝 Publications 
 <!-- 
